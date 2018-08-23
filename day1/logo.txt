@@ -1,0 +1,7 @@
+////////////////////////////
+//                        //
+//  welcome to guess game //
+//                        //
+//        write by tony   //
+//   all rights resaved   //
+////////////////////////////
